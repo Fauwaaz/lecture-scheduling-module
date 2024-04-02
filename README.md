@@ -17,6 +17,14 @@ Step 4: Run command
 npm run dev
 
 
-Project Overview
+**Project Overview**
+
+**Admin Login**
+Username: Admin
+Password: Admin
+
+**Instructor Login**
+Username: john
+Password: 12345
 
 Online Lecture Scheduling Module - Project Steps
