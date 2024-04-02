@@ -1,5 +1,4 @@
 # lecture-scheduling-module
-
 Step 1: install npm package in the frontend and backend
 
 npm install
@@ -16,3 +15,8 @@ npm audit fix
 Step 4: Run command
 
 npm run dev
+
+
+Project Overview
+
+Online Lecture Scheduling Module - Project Steps
