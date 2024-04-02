@@ -12,3 +12,7 @@ npm install mongodb
 Step 3: for any error run the command
 
 npm audit fix 
+
+Step 4: Run command
+
+npm run dev
