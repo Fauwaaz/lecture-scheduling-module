@@ -79,7 +79,7 @@ const loginAdmin = (req, res) => {
                         error: err
                     })
                 }
-                if (result) {
+                if (!result) {
                     res.status(200).json({
                         message: "Admin Login Successful",
                         user: admin
